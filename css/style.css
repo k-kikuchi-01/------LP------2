@@ -176,6 +176,7 @@ ul {
     margin-right: 16.7%;
     padding: 2.625rem 3rem 2.25rem 3.125rem;
     gap: 2rem;
+    justify-content: center;
   }
 }
 .navigation__title{
@@ -579,6 +580,7 @@ width: 0.5rem;
   width: 2.5rem;
   height: 2.5rem;
   background-color: #0071CE;
+  color: #FFFFFF;
   font-size: 1.9375rem;
 }
 @media (min-width: 48rem) {
@@ -614,6 +616,9 @@ width: 0.5rem;
     margin-left: 0rem;
     margin-right: 0rem;
   }
+}
+.footer__link-menu{
+  color: #FFFFFF;
 }
 .footer__copyright{
   font-size: 0.625rem;
