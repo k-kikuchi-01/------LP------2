@@ -360,6 +360,17 @@ ul {
     padding: 2.75rem 0.5625rem 0rem 0.5625rem;
   }
 }
+@media (max-width: 47.9rem) {
+  .voices__img-add{
+    padding: 29px 0px 0px 30px;
+}
+}
+@media (max-width: 47.9rem) {
+  .voices__img-add img{
+    width: 80%;
+    height: auto;
+}
+}
 .voices__slick-item-name{
   text-align: center;
   padding: 0.25rem 0rem 0rem 0.1875rem;
